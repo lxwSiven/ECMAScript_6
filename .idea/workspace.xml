@@ -16,71 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Symbol.iterator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iterator/Symbol.iterator.js">
+      <file leaf-file-name="objectEntries.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generator/objectEntries.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="268">
+              <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Symbol.iterator-2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iterator/Symbol.iterator-2.js">
+      <file leaf-file-name="yield*.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generator/yield*.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yield*.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iterator/yield*.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String-iterator-2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iterator/String-iterator-2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Iterator-return-throw.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iterator/Iterator-return-throw.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="47" lean-forward="false" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iterator/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yield-next.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Generator/yield-next.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+            <state relative-caret-position="95">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -122,6 +72,10 @@
         <option value="$PROJECT_DIR$/Iterator/test.txt" />
         <option value="$PROJECT_DIR$/Iterator/Iterator-return-throw.js" />
         <option value="$PROJECT_DIR$/Generator/yield-next.js" />
+        <option value="$PROJECT_DIR$/Generator/yield.js" />
+        <option value="$PROJECT_DIR$/Generator/fabonacci.js" />
+        <option value="$PROJECT_DIR$/Generator/objectEntries.js" />
+        <option value="$PROJECT_DIR$/Generator/yield*.js" />
       </list>
     </option>
   </component>
@@ -187,6 +141,11 @@
               <item name="ECMAScript_6" type="b2602c69:ProjectViewProjectNode" />
               <item name="ECMAScript_6" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ECMAScript_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECMAScript_6" type="462c0819:PsiDirectoryNode" />
+              <item name="Generator" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -218,26 +177,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.yield-next.js">
-    <configuration name="Iterator-return-throw.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Iterator-return-throw.js" working-dir="$PROJECT_DIR$/Iterator" />
-    <configuration name="String-iterator-2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="String-iterator-2.js" working-dir="$PROJECT_DIR$/Iterator" />
-    <configuration name="String-iterator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="String-iterator.js" working-dir="$PROJECT_DIR$/Iterator" />
-    <configuration name="StringTest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="StringTest.js" working-dir="$PROJECT_DIR$/Iterator" />
+  <component name="RunManager" selected="Node.js.yield*.js">
+    <configuration name="fabonacci.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="fabonacci.js" working-dir="$PROJECT_DIR$/Generator" />
+    <configuration name="objectEntries.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="objectEntries.js" working-dir="$PROJECT_DIR$/Generator" />
     <configuration name="yield-next.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="yield-next.js" working-dir="$PROJECT_DIR$/Generator" />
+    <configuration name="yield*.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="yield*.js" working-dir="$PROJECT_DIR$/Generator" />
+    <configuration name="yield.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="yield.js" working-dir="$PROJECT_DIR$/Generator" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.String-iterator.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.String-iterator-2.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.StringTest.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Iterator-return-throw.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.yield-next.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.yield-next.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.yield.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.fabonacci.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.objectEntries.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.yield*.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.yield-next.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Iterator-return-throw.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.StringTest.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.String-iterator-2.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.String-iterator.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.yield*.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.objectEntries.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.yield.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.fabonacci.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.yield-next.js" />
       </list>
     </recent_temporary>
   </component>
@@ -259,11 +218,13 @@
       <workItem from="1511577508246" duration="635000" />
       <workItem from="1511705490611" duration="4775000" />
       <workItem from="1511758067767" duration="1128000" />
+      <workItem from="1511773838690" duration="1009000" />
+      <workItem from="1511788764485" duration="1208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14261000" />
+    <option name="totallyTimeSpent" value="16478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="23" width="1294" height="745" extended-state="0" />
@@ -300,6 +261,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Generator/yield-next.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Iterator/Symbol.iterator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -336,7 +305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -366,7 +334,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -403,7 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -418,7 +384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -455,7 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -470,7 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -523,7 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -538,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,22 +520,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Iterator/Symbol.iterator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iterator/yield*.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Iterator/String-iterator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -587,30 +532,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generator/fabonacci.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Iterator/String-iterator-2.js">
+    <entry file="file://$PROJECT_DIR$/Generator/yield.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="361">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Iterator/Symbol.iterator-2.js">
+    <entry file="file://$PROJECT_DIR$/Generator/yield-next.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iterator/Iterator-return-throw.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="47" lean-forward="false" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        <state relative-caret-position="209">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -623,10 +567,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generator/yield-next.js">
+    <entry file="file://$PROJECT_DIR$/Iterator/Iterator-return-throw.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <state relative-caret-position="19">
+          <caret line="2" column="47" lean-forward="false" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator/String-iterator-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator/yield*.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator/Symbol.iterator-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator/Symbol.iterator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generator/objectEntries.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generator/yield*.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
